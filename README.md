@@ -1,0 +1,2 @@
+# COVID-19_MEX_CITY
+In the present project we explore the correlations between active Covid-19 cases in Mexico City, subsequent governmental restrictions and its impacts on economic activity across the city. We aim to shed some light on an ongoing debate in the public agendas of city governments across the globa, how to deal with the economic toll of lockdown restrictions in the context of a global sanitary crisis without precedents in the XXI century.
